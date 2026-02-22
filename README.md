@@ -1,4 +1,4 @@
-Hi, I'm Fatima 👋
+Hi, I'm Fatima 
 
 Junior Software Developer based in Canada 
 
