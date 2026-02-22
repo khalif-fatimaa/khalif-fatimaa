@@ -1,6 +1,6 @@
 # Hi, I'm Fatima Khalif 👋
 
-💻 Junior Software Developer | Full Stack Developer  
+💻 Full Stack Developer  
 📍 Edmonton, Canada  
 
 I’m a full-stack developer with experience building scalable web and mobile applications using Java, .NET, and JavaScript. I’ve worked on real-world projects involving API development, authentication systems, and data-driven applications.
@@ -46,4 +46,4 @@ Focus: API design, data management, and real-time UI updates.
 
 ---
 
-Currently open to full-time opportunities 🚀
+Actively seeking full-time software developer opportunities
